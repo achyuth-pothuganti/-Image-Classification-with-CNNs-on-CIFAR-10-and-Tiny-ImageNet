@@ -1,4 +1,4 @@
-# -Image-Classification-with-CNNs-on-CIFAR-10-and-Tiny-ImageNet
+# Image-Classification-with-CNNs-on-CIFAR-10-and-Tiny-ImageNet
 This repository contains a comprehensive project on image classification using Convolutional Neural Networks (CNNs) applied to the CIFAR-10 and Tiny ImageNet datasets. The project explores multiple architectures, including:
 
 Pre-trained Models: VGG-16, ResNet.
