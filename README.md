@@ -9,17 +9,21 @@ This repository contains a comprehensive project on image classification using C
 **Dataset Handling:** Preprocessing and augmentation techniques for CIFAR-10 and Tiny ImageNet.
 
 **Model Implementations:**
+
   1.VGG-16 and ResNet for leveraging transfer learning.
   
   2. Custom CNN architectures fine-tuned for specific dataset challenges.
   
 **Training:**
+
   1.Experimented with hyperparameter tuning for optimal performance.
   2. Used advanced techniques like learning rate scheduling and dropout.
   
 **Evaluation:**
-  Analyzed performance metrics (accuracy, precision, recall) and visualized results with confusion matrices.
+
+  1.Analyzed performance metrics (accuracy, precision, recall) and visualized results with confusion matrices.
   
-  Plotted learning curves to track training and validation performance.
+  2.Plotted learning curves to track training and validation performance.
 **Comparison:**
+
 Evaluated the strengths and trade-offs of pre-trained models vs. custom CNNs.
